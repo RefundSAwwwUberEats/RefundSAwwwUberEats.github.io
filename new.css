@@ -28,10 +28,11 @@ body{
   .btn{
     margin-top: 20px;
   }
-  .payment{
-	  padding-top:10px;
-	  
-  }
+  .payment {
+    padding-top: 10px;
+    padding-left: 5px;
+    width: 82%;
+}
   
   
 }
